@@ -6,7 +6,7 @@
 
 이 프로젝트는 다음 저장소의 `AI_RULES.md`를 공통 AI 협업 규칙으로 참고한다.
 
-https://github.com/unnitti/photo_text_pwa/blob/main/AI_RULES.md
+https://github.com/unnitti/photo/blob/main/AI_RULES.md
 
 공통 규칙에 접근할 수 있는 경우 먼저 확인한다.
 
