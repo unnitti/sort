@@ -1,4 +1,4 @@
-const CACHE = 'sort-cache-v02';
+const CACHE = 'sort-cache-v03';
 const CACHE_PREFIX = 'sort-cache-';
 
 const ASSETS = [
